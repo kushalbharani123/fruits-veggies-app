@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8f5;
+  padding: 20px;
+}
+
+.item {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.item img {
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
